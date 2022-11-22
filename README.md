@@ -2,4 +2,4 @@
 
 1. Background Gredient [DEMO](https://codepen.io/rvkt/full/poVryNv)
 
-2. Image Background [DEMO](https://codepen.io/rvkt/full/LYrQdga)
+2. Background Image [DEMO](https://codepen.io/rvkt/full/LYrQdga)
