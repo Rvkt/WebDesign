@@ -1,3 +1,5 @@
 # WebDesign
 
-1. Gredient Background [DEMO](https://codepen.io/rvkt/full/poVryNv)
+1. Background Gredient [DEMO](https://codepen.io/rvkt/full/poVryNv)
+
+2. Image Background [DEMO](https://codepen.io/rvkt/full/LYrQdga)
